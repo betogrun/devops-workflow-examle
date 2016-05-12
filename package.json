@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "description": "Demo app for Pluralsight Docker CI course",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
